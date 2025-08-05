@@ -1,4 +1,4 @@
 # apnacollege-demo
 this is my first github project
 <br>
-Author = Muhammad Kamran
+Author = Muhammad Kamran(college)
